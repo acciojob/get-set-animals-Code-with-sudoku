@@ -1,4 +1,3 @@
-//complete this code
 Get Set  Animal class Animal {
 constructor(species) {
     this._species = species;
